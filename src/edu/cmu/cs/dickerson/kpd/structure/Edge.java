@@ -15,4 +15,5 @@ public class Edge extends DefaultWeightedEdge {
 	public double getFailureProbability() {
 		return this.failureProbability;
 	}
+
 }
